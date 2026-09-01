@@ -1,0 +1,55 @@
+KETAN VISHWAKARMA
+Full Stack Developer | MERN (Basics)
+Jabalpur, Madhya Pradesh
+Phone: +91-9424399080 | Email: ketanvishwakarma619@gmail.com
+LinkedIn: http://www.linkedin.com/in/ketan-vishwakarma-a46ab1269
+GitHub: https://github.com/Ketan619 | Portfolio: https://ketan619.github.io/Ketan.dev/
+
+SUMMARY
+Frontend Developer Intern with strong skills in building responsive, production-ready UIs and integrating them with backend APIs. Built React-based interfaces and implemented LLM/GenAI API integrations in a collaborative MERN project. Familiar with Node.js, Express.js, MongoDB (Mongoose), REST APIs and JWT concepts, along with Git/GitHub and debugging tools. Seeking a fresher Full Stack opportunity in Jabalpur.
+
+SKILLS
+Frontend: React.js, JavaScript (ES6), HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive Design, DOM
+Backend (Basics): Node.js, Express.js, REST APIs, JWT (Basics), Middleware (Basics)
+Database (Basics): MongoDB, Mongoose, CRUD, Schema/Model Basics
+Integrations/Tools: Axios, Multer (Basics), LLM/GenAI API Integration, Git/GitHub, Browser DevTools, Debugging
+Languages (Basic): Java, Python
+
+EXPERIENCE
+Frontend Web Developer Intern | Dashark Services (India Pvt. Ltd.), Jabalpur
+Feb 2024 – Apr 2024
+
+Developed responsive UI modules for ADM Trading Website: Registration, Login, Wallet, Market, Recharge, Withdrawal, Signal Group.
+Implemented screens using HTML, CSS, JavaScript and Bootstrap with consistent UI and cross-browser/device compatibility.
+Coordinated with PM and backend developers to align UI flows, required fields and integration needs; fixed UI issues using DevTools.
+
+PROJECTS
+Smart Learn Studio | AI-Powered Course Designing & Learning Platform (Collaborative Project)
+Tech: React, Tailwind CSS, Axios, LLM/GenAI API (Frontend). Team project uses: Node.js, Express.js, MongoDB, JWT.
+Original Repo: https://github.com/tusharvaidya0303/Smart-Learn-Studio
+Contribution: Built React frontend UI and implemented LLM/GenAI API integrations for course generation, quizzes and interview-prep features.
+
+Built responsive UI flows for course generation and learning modules using React + Tailwind.
+Implemented AI integrations (LLM/GenAI API) to generate course content and related quiz/interview prompts.
+Integrated frontend with backend endpoints using Axios and handled loading/error states.
+Collaborated in a team environment using Git/GitHub with feature integration on a shared repository.
+TaskFlow | Productivity Task Manager (MERN) (In Progress)
+Tech: React, Node.js, Express.js, MongoDB, JWT
+
+
+Task manager with Login/Register and protected dashboard.
+Task CRUD with status workflow (Pending/In-Progress/Completed), due date and priority.
+Filters/search/sort with responsive UI and API integration.
+ExpenseWise | Expense Tracker (MERN) + AI Insights (In Progress)
+Tech: React, Node.js, Express.js, MongoDB, JWT, Axios, LLM/GenAI API
+
+
+Track user-specific income/expense transactions with categories and dashboard summaries (Income/Expense/Balance).
+Monthly insights via AI (category-wise breakdown, overspending alerts) and budget suggestions from transaction data.
+Responsive UI with date/category filters and API integration.
+EDUCATION
+B.Tech (CSE) | Baderia Global Institute of Engineering, Jabalpur — 2023–2027 (Pursuing)
+Diploma (IT) | Kalaniketan Polytechnic College, Jabalpur — 2021–2024 | CGPA: 7.50/10
+
+CERTIFICATIONS
+Web Development (LIVEWIRE) | Networking (AEGIS I-NET) | Cisco C++ Essentials | Networking Basics (Cisco) | Intro to Data Science (Cisco)
